@@ -10,9 +10,20 @@ Objetivo:
 
 Alguns comandos markdown:
 
-(**) ou (__) - **Negrito**
-(*) ou (_) - *Itálico*
-(~~) - ~~Rasura~~
-(#) - Título 1
-(##) - Título 2
-(---) ou (***) - Linha de divisão
+**Negrito**
+*Itálico*
+~~Rasura~~
+#Título 1
+##Título 2
+---
+Linha de divisão
+
+Lista numerada
+
+1.Lista1
+1.Lista2
+1.Lista3
+***
+1.Lista1
+1.Lista2
+1.Lista3
