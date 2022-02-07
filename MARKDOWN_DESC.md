@@ -11,14 +11,19 @@ Objetivo:
 Alguns comandos markdown:
 
 **Negrito**
+
 *Itálico*
+
 ~~Rasura~~
+
 #Título 1
+
 ##Título 2
+
 ---
 Linha de divisão
 
-Lista numerada
+Lista numerada:
 
 1. Lista1
 1. Lista2
@@ -28,7 +33,7 @@ Lista numerada
 1. Lista2
 1. Lista3
 
-Lista demarcada
+Lista demarcada:
 
 * teste
 - teste
