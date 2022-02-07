@@ -45,3 +45,4 @@ Lista de Tarefa:
 - [feito] Opção 3
 
 ![IMG_20180812_155028_251](https://user-images.githubusercontent.com/90936509/152721752-e014a1cc-18a8-4687-9aca-9962c6fad5fd.jpg)
+![Acesse meu GitHub](https://github.com/Sandro-Gomes/)
