@@ -40,6 +40,6 @@ Lista demarcada:
 * teste
 
 Lista de Tarefa:
-- [ ] Opção 1
-- [ ] Opção 2
-- [ ] Opção 3
+- [1] Opção 1
+- [x] Opção 2
+- [feito] Opção 3
