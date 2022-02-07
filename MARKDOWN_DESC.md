@@ -20,16 +20,16 @@ Linha de divisão
 
 Lista numerada
 
-1.Lista1
-1.Lista2
-1.Lista3
+1. Lista1
+1. Lista2
+1. Lista3
 ***
-1.Lista1
-1.Lista2
-1.Lista3
+1. Lista1
+1. Lista2
+1. Lista3
 
 Lista demarcada
 
-*teste
--teste
-*teste
+* teste
+- teste
+* teste
