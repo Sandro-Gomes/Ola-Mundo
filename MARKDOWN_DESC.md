@@ -69,6 +69,8 @@ Tnx
 
 You can use emojis too! 😄
 
-Access Here for More
+Access Here for More 👉 [ikatyang repository](https://github.com/ikatyang/emoji-cheat-sheet)
 
-  👉 [ikatyang repository](https://github.com/ikatyang/emoji-cheat-sheet)
+> How can I do a reply?
+
+Like this haha
