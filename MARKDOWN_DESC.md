@@ -66,3 +66,5 @@ General contrast tool
   
 Tnx
 ```
+
+You can use emojis too! :smil
