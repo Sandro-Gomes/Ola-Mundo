@@ -52,3 +52,8 @@ Table Creation:
 number | name | grade
 --- | --- | ---
 1 | Sandro | 10
+2 | Gustavo | 8,5
+3 | Joseph | 5
+
+Table finished
+
