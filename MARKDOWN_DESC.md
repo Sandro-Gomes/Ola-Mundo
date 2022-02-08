@@ -68,3 +68,5 @@ Tnx
 ```
 
 You can use emojis too! 😄
+Access Here for More
+  👉 ikatyang repository[https://github.com/ikatyang/emoji-cheat-sheet]
