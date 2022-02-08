@@ -59,3 +59,10 @@ Table finished
 
 `contrast tool`
 
+```
+General contrast tool
+
+  Use Crasis
+  
+Tnx
+```
